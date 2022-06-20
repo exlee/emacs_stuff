@@ -1,0 +1,8 @@
+* Various Emacs Snippets
+
+Small snippets & functions that I use with Emacs.
+
+** [[./org-md-example-block.el][org-md-example-block]]
+1. Add language to the src_blocks for importing
+2. Use =#+MACRO ...= on the returned code.
+   That allows using variables within code (for version & stuff).
